@@ -1,0 +1,1 @@
+gaussian_filter1d(df['ano'], sigma=20));
